@@ -3,6 +3,7 @@ package com.mycompany.mainalbum;
 public class MainAlbum {
 
     public static void main(String[] args) {
+        Figurinha [] = new Figurinha[3];
         Figurinha neymar = new Figurinha();
             neymar.nome = "Neymar";
             neymar.data = "12/10/1990";

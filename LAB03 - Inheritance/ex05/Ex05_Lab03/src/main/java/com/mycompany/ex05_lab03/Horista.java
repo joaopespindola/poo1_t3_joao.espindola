@@ -5,7 +5,7 @@ public class Horista extends Funcionario{
     private int totalDeHoras;
     private double SalarioHorista;
 
-    public Horista(double valorPorHora, int totalDeHoras, String nome, String dataDeNascimento, Double salario) {
+    public Horista(double valorPorHora, int totalDeHoras, String nome, String dataDeNascimento, double salario) {
         super(nome, dataDeNascimento, salario);
         this.valorPorHora = valorPorHora;
         this.totalDeHoras = totalDeHoras;

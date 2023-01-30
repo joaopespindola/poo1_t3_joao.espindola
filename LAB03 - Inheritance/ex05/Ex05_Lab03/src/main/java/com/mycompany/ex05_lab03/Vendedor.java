@@ -6,7 +6,7 @@ public class Vendedor extends Funcionario{
     private int vendas;
     private int comissao;
 
-    public Vendedor(String ondeTrabalha, int vendas, int comissao, String nome, String dataDeNascimento, Double salario) {
+    public Vendedor(String ondeTrabalha, int vendas, int comissao, String nome, String dataDeNascimento, double salario) {
         super(nome, dataDeNascimento, salario);
         this.ondeTrabalha = ondeTrabalha;
         this.vendas = vendas;

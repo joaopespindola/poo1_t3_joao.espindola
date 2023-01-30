@@ -5,7 +5,7 @@ public class Funcionario {
     private String dataDeNascimento;
     private double salario;
 
-    public Funcionario(String nome, String dataDeNascimento, Double salario) {
+    public Funcionario(String nome, String dataDeNascimento, double salario) {
         this.nome = nome;
         this.dataDeNascimento = dataDeNascimento;
         this.salario = salario;
