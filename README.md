@@ -1,3 +1,1 @@
-# poo1_t3_joao.espindola
-
-putting a new line
+Repositório criado para matéria de Programção Orientada a Objetos 1
